@@ -24,7 +24,7 @@ At Inference time, the model evaluates continuous streams of unknown traffic, wh
 Model Architecture is illustrated below:
 
 <center>
-    <img src="images/saint-architecture.png" width="200">
+    <img src="images/saint-architecture.png" width="300">
 <p style = "font-size: 16px;
             font-family: 'Georgia', serif;
             text-align: center;
